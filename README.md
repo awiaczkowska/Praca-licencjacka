@@ -20,7 +20,7 @@ __Załączniki__
   
 – ’linearyzacja_2D.py’ - program obliczający macierze linearyzacji punktów stacjonarnych modelu (M1)
   
-• wykresy 3D zapisane w html
+• wykresy 3D zapisane w html (aby je wyświetlić należy pobrać plik)
 
   – ’stab_P.html’
   
